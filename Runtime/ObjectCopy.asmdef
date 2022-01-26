@@ -1,5 +1,6 @@
 {
-    "name": "elphin.csharp-object-copier",
+    "name": "RuntimeAssembly",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
